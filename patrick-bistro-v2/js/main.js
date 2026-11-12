@@ -1,0 +1,1 @@
+const t=document.querySelector('#toggle'),n=document.querySelector('nav');if(t)t.onclick=()=>n.classList.toggle('open');const f=document.querySelector('#form');if(f)f.onsubmit=e=>{e.preventDefault();document.querySelector('#msg').textContent='Thanks! Demo only—please contact Patrick directly.';f.reset()};

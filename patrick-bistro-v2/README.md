@@ -1,0 +1,1 @@
+Patrick Bistro redesign, distinct image URLs and fresh visual style. Four pages. HTML/CSS/JavaScript. Replace placeholder contact/menu info. Contact form is demo-only.
